@@ -24,47 +24,47 @@ I am an **AI Engineer** with over a year of production experience building enter
 
 #### **Software Engineer - Entry** | Equifax Analytics, Pune, India *(Feb 2025 - Present)*
 * **Enterprise RAG Chatbot:** Engineered a production-grade backend using **Python** and **FastAPI**, serving 500+ concurrent users with sub-10 second response times at scale.
-* **Agentic Workflows:** Designed a multi-node **LangGraph** & **LangChain** agent pipeline managing safety filtering, query rewriting, hybrid retrieval, and generation via **Gemini 2.5 Flash (Vertex AI)**[cite: 1].
-* **Smart Retrieval:** Implemented a hybrid search architecture (BM25 + semantic) over **PostgreSQL (`pgvector`)** with an automated dynamic knowledge base that replaces stale embeddings on document updates[cite: 1].
-* **Security & Guardrails:** Integrated **Google Cloud DLP** for real-time PII redaction, encryption, profanity filtering, and vulnerability guardrails alongside Google Secret Manager[cite: 1].
-* **LLM Observability:** Established full pipeline debugging and compliance auditing using **Langfuse** tracing and structured logging[cite: 1].
-* **Microservices:** Designed and maintained scalable RESTful APIs following robust integration patterns using **Java** and **Spring Boot**[cite: 1].
+* **Agentic Workflows:** Designed a multi-node **LangGraph** & **LangChain** agent pipeline managing safety filtering, query rewriting, hybrid retrieval, and generation via **Gemini 2.5 Flash (Vertex AI)**.
+* **Smart Retrieval:** Implemented a hybrid search architecture (BM25 + semantic) over **PostgreSQL (`pgvector`)** with an automated dynamic knowledge base that replaces stale embeddings on document updates.
+* **Security & Guardrails:** Integrated **Google Cloud DLP** for real-time PII redaction, encryption, profanity filtering, and vulnerability guardrails alongside Google Secret Manager.
+* **LLM Observability:** Established full pipeline debugging and compliance auditing using **Langfuse** tracing and structured logging.
+* **Microservices:** Designed and maintained scalable RESTful APIs following robust integration patterns using **Java** and **Spring Boot**.
 
 #### **Data Science Intern** | Celebal Technologies, Pune, India *(Dec 2023 - Jan 2024)*
-* Developed and evaluated ML models using regression, classification, and clustering techniques to surface actionable business insights[cite: 1].
-* Executed end-to-end data analysis and visualization pipelines using **Python (Pandas, NumPy, Matplotlib, Seaborn)**[cite: 1].
+* Developed and evaluated ML models using regression, classification, and clustering techniques to surface actionable business insights.
+* Executed end-to-end data analysis and visualization pipelines using **Python (Pandas, NumPy, Matplotlib, Seaborn)**.
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-* ☁️ **Google Cloud Certified** – Associate Cloud Engineer *(Valid till Jul 2028)*[cite: 1]
-* 🧠 **Advanced RAG with Vector Databases and Retrievers** – IBM / Coursera *(Apr 2026)*[cite: 1]
-* 🥈 **AI/ML Hackathon Runner-up (2025):** Secured 2nd place out of 20+ teams at Equifax's Internal Corporate AI/ML Hackathon by building a *Proactive AI Credit Health Management* solution for the UK market[cite: 1].
+* ☁️ **Google Cloud Certified** – Associate Cloud Engineer *(Valid till Jul 2028)*
+* 🧠 **Advanced RAG with Vector Databases and Retrievers** – IBM / Coursera *(Apr 2026)*
+* 🥈 **AI/ML Hackathon Runner-up (2025):** Secured 2nd place out of 20+ teams at Equifax's Internal Corporate AI/ML Hackathon by building a *Proactive AI Credit Health Management* solution for the UK market.
 
 ---
 
 ## 📁 Key Projects
 
-### 👁️ [Iris Liveness Detection Using CNN](YOUR_REPO_LINK_HERE)
-* Built a pre-trained **VGG-16 CNN** model to classify live vs. spoofed iris images for high-accuracy biometric authentication[cite: 1].
-* Tested and evaluated robustness against multiple spoofing methodologies utilizing Precision, Recall, and F1-score to validate production readiness[cite: 1].
-* *Note: The source files can be referenced in the "Harsh_Patil (4).pdf" file.*[cite: 1]
+### 👁️ [Iris Liveness Detection Using CNN]([YOUR_REPO_LINK_HERE](https://github.com/harshpatil02/Iris-Liveness-Detection))
+* Built a pre-trained **VGG-16 CNN** model to classify live vs. spoofed iris images for high-accuracy biometric authentication.
+* Tested and evaluated robustness against multiple spoofing methodologies utilizing Precision, Recall, and F1-score to validate production readiness.
+* *Note: The source files can be referenced in the "Harsh_Patil (4).pdf" file.*
 
-### 📦 [Inventory Management System](YOUR_REPO_LINK_HERE)
-* Developed a modular, microservices-driven inventory architecture using **Java** and **Spring Boot** covering product, stock, and order management components[cite: 1].
-* Implemented clean separation of concerns across services with industry-standard RESTful APIs[cite: 1].
+### 📦 [Inventory Management System]
+* Developed a modular, microservices-driven inventory architecture using **Java** and **Spring Boot** covering product, stock, and order management components.
+* Implemented clean separation of concerns across services with industry-standard RESTful APIs.
 
 ---
 
 ## 🎓 Education
 
-* **B.Tech in Computer Science Engineering** — Pimpri Chinchwad College of Engineering and Research, Pune, India (2021 - 2025) | **CGPA: 8.9/10**[cite: 1]
+* **B.Tech in Computer Science Engineering** — Pimpri Chinchwad College of Engineering and Research, Pune, India (2021 - 2025) | **CGPA: 8.9/10**
 
 ---
 
 ## 📬 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/harshpatil](https://linkedin.com/in/harshpatil)[cite: 1]
-* **Email:** [harsh.hdpatil2@gmail.com](mailto:harsh.hdpatil2@gmail.com)[cite: 1]
-* **Phone:** +91 9022877899[cite: 1]
+* **LinkedIn:** [linkedin.com/in/harshpatil](https://linkedin.com/in/harshpatil)
+* **Email:** [harsh.hdpatil2@gmail.com](mailto:harsh.hdpatil2@gmail.com)
+* **Phone:** +91 9022877899
