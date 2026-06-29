@@ -49,7 +49,6 @@ I am an **AI Engineer** with over a year of production experience building enter
 ### 👁️ [Iris Liveness Detection Using CNN]([YOUR_REPO_LINK_HERE](https://github.com/harshpatil02/Iris-Liveness-Detection))
 * Built a pre-trained **VGG-16 CNN** model to classify live vs. spoofed iris images for high-accuracy biometric authentication.
 * Tested and evaluated robustness against multiple spoofing methodologies utilizing Precision, Recall, and F1-score to validate production readiness.
-* *Note: The source files can be referenced in the "Harsh_Patil (4).pdf" file.*
 
 ### 📦 [Inventory Management System]
 * Developed a modular, microservices-driven inventory architecture using **Java** and **Spring Boot** covering product, stock, and order management components.
